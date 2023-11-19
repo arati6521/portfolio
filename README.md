@@ -1,5 +1,5 @@
 # portfolio
-Personal portfolio website using html, css, javascript, nodejs and express.
+A simple Personal portfolio website using html, css, javascript, nodejs and express.
 
 *To run using command prompt:*
 1. npm init
